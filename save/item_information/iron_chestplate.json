@@ -1,0 +1,19 @@
+{
+  "item": {
+    "itemStats": {
+      "endurance": 15.0,
+      "health_max": 20.0
+    },
+    "itemStatMuls": {},
+    "attribute": "none",
+    "displayName": "Iron Chestplate",
+    "type": "iron_chestplate",
+    "amount": 0,
+    "maxStackSize": 1,
+    "id": "327e029e-5fa4-40ec-9e9e-adff747356b8"
+  },
+  "itemType": "iron_chestplate",
+  "displayName": "Iron Chestplate",
+  "description": "A large iron chestplate, perfect armor for a beginner.",
+  "useType": "equipment_chest"
+}

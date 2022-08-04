@@ -1,0 +1,16 @@
+{
+  "damage": 10.0,
+  "weaponTypes": [
+    "sword"
+  ],
+  "itemStats": {
+    "stat1": 5.0
+  },
+  "itemStatMuls": {},
+  "attribute": "none",
+  "displayName": "Name",
+  "type": "id",
+  "amount": 0,
+  "maxStackSize": 1,
+  "id": ""
+}

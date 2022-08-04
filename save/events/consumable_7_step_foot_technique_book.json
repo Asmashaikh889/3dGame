@@ -1,0 +1,5 @@
+{
+  "itemType": "7_step_foot_technique_book",
+  "eventType": "consumable",
+  "event": "ability.active.7_step_foot_technique"
+}

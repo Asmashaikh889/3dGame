@@ -1,0 +1,26 @@
+
+- major changes:
+	implemented skills, sub-skills, stats, equipment, changing of stats through equipping equipment and leveling up skills.
+	implemented improvements in physices, improvements to entity movement and interaction, and implemented changing keybinds.
+	implemented modifiable config saving.
+	linked all player inforamtion guis to inventory gui, implemented flags and entity flags.
+	implemented status-effects.
+	
+
+- minor changes:
+	added Mana Poisoning status-effect.
+	added damage calculation through stats of both parties.
+	added requirements for crafting recipes (limited to stats and skills).
+	added functionality of many stats.
+	added stat boosts via leveling skills.
+	added the hiding of certain stats from player (deteriorated endurance, etc.).
+	improved luck (if chance, has to reroll if fail. if amount, chance to reroll for 2 amounts).
+	inventory capacity matters, and removing items that give the player inventory capacity, will not be allowed if after removal there is no room for items.
+	added specific events.
+	adde Consumable items.
+
+- notes:
+	written after return from vacation to dubai.
+	as of yet, INSANITY, STAMINA is not implemented.
+	recovery of mana, stamina and health does not work.
+	

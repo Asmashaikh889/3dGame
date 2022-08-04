@@ -1,0 +1,19 @@
+{
+  "item": {
+    "itemStats": {
+      "endurance": 15.0,
+      "health_max": 12.5
+    },
+    "itemStatMuls": {},
+    "attribute": "none",
+    "displayName": "Iron Leggings",
+    "type": "iron_leggings",
+    "amount": 0,
+    "maxStackSize": 1,
+    "id": "1ee358fd-2c18-4869-8b36-b98ca7aa6bec"
+  },
+  "itemType": "iron_leggings",
+  "displayName": "Iron Leggings",
+  "description": "A pair of iron leggings.",
+  "useType": "equipment_legs"
+}

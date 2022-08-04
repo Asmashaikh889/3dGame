@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "itemType": "shard_blue_0",
+      "amount": 1
+    },
+    {
+      "itemType": "shard_yellow_0",
+      "amount": 1
+    }
+  ],
+  "result": {
+    "itemType": "equipment_bag_2",
+    "amount": 1
+  },
+  "recipeType": "crafting_recipe",
+  "RequirementsDescription": "150 Max Mana",
+  "craftingStation": "player",
+  "unlocked": "stat.health_max >= 150",
+  "uuid": "09262e47-16f0-4938-815a-869e6bc88c17"
+}

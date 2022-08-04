@@ -1,0 +1,8 @@
+{
+  "consumableType": "consumableType",
+  "displayName": "Name",
+  "type": "id",
+  "amount": 0,
+  "maxStackSize": 1,
+  "id": ""
+}

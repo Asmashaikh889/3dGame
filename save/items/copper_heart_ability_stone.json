@@ -1,0 +1,8 @@
+{
+  "consumableEvent": "copper_heart_ability_stone",
+  "displayName": "Copper Heart Ability Stone",
+  "type": "copper_heart_ability_stone",
+  "amount": 0,
+  "maxStackSize": 2,
+  "id": ""
+}

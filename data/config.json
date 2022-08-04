@@ -1,0 +1,21 @@
+{
+  "controls": {
+    "controlKeys": {
+      "pause_menu": 256,
+      "ability_2": 50,
+      "ability_menu": 74,
+      "ability_1": 49,
+      "forward": 87,
+      "ability_4": 52,
+      "ability_3": 51,
+      "quest_menu": 75,
+      "right": 68,
+      "inventory": 73,
+      "left": 65,
+      "backward": 83,
+      "ability_5": 53,
+      "jump": 32
+    }
+  },
+  "serverIp": "localhost"
+}

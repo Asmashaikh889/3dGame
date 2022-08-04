@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "itemType": "iron_ingot",
+      "amount": 4
+    },
+    {
+      "itemType": "string",
+      "amount": 2
+    }
+  ],
+  "result": {
+    "itemType": "iron_helmet",
+    "amount": 1
+  },
+  "recipeType": "crafting_recipe",
+  "RequirementsDescription": "",
+  "craftingStation": "anvil",
+  "unlocked": "",
+  "uuid": "f9730347-24f6-4386-853c-06b0f24ce4dc"
+}

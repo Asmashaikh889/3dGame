@@ -1,0 +1,5 @@
+{
+  "itemType": "mana_generation_potion_1",
+  "eventType": "consumable",
+  "event": "status_effect.mana_generation_1 10"
+}

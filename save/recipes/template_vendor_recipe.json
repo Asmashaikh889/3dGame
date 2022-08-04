@@ -1,0 +1,12 @@
+{
+  "coins": 1,
+  "result": {
+    "itemType": "id",
+    "amount": 1
+  },
+  "recipeType": "vendor_recipe",
+  "RequirementsDescription": "",
+  "craftingStation": "station",
+  "unlocked": "",
+  "uuid": ""
+}

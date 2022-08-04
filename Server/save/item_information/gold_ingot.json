@@ -1,0 +1,6 @@
+{
+  "itemType": "gold_ingot",
+  "displayName": "Gold Ingot",
+  "description": "A gold ingot.",
+  "useType": "crafting_ingredient"
+}

@@ -1,0 +1,6 @@
+{
+  "itemType": "shard_purple_0",
+  "displayName": "Common Lightning Shard",
+  "description": "A common lightning shard,\n  can be used to apply the |Lightning| attribute to a weapon.",
+  "useType": "crafting_ingredient"
+}

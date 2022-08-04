@@ -1,0 +1,5 @@
+{
+  "itemType": "mana_boost_ability_stone",
+  "eventType": "consumable",
+  "event": "ability.active.mana_boost"
+}

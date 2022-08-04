@@ -1,0 +1,14 @@
+{
+  "itemStats": {
+    "inventory_capacity": 8.0
+  },
+  "itemStatMuls": {
+    "health_max": 2.0
+  },
+  "attribute": "none",
+  "displayName": "Large Bag",
+  "type": "equipment_bag_2",
+  "amount": 0,
+  "maxStackSize": 1,
+  "id": ""
+}

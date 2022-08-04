@@ -1,0 +1,20 @@
+{
+  "item": {
+    "itemStats": {
+      "luck": 0.05,
+      "mana_max": 5.0,
+      "speed": 0.25
+    },
+    "itemStatMuls": {},
+    "attribute": "none",
+    "displayName": "Iron Ring",
+    "type": "iron_ring",
+    "amount": 0,
+    "maxStackSize": 1,
+    "id": "7dbb5ea9-d7ef-42ff-bbf6-d0608cab7464"
+  },
+  "itemType": "iron_ring",
+  "displayName": "Iron Ring",
+  "description": "An iron ring,  better than nothing.",
+  "useType": "equipment_ring"
+}

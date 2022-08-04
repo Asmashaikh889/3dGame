@@ -1,0 +1,6 @@
+{
+  "itemType": "regeneration_potion_2",
+  "displayName": "Regeneration Potion II",
+  "description": "A potion which increases \nHEALTH REGENERATION by 40% \nfor 10 seconds.",
+  "useType": "consumable"
+}

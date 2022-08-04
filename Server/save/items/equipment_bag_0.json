@@ -1,0 +1,13 @@
+{
+  "itemStats": {
+    "inventory_capacity": 2.0,
+    "mana_max": 250.0
+  },
+  "itemStatMuls": {},
+  "attribute": "none",
+  "displayName": "Small Bag",
+  "type": "equipment_bag_0",
+  "amount": 0,
+  "maxStackSize": 1,
+  "id": "25a66799-668b-41d8-95d3-d6001d56ec99"
+}

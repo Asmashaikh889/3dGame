@@ -1,0 +1,5 @@
+{
+  "itemType": "9_sword_cultivation_technique_book",
+  "eventType": "consumable",
+  "event": "ability.passive.9_sword_cultivation_technique"
+}

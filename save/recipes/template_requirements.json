@@ -1,0 +1,9 @@
+"[sign] -> >= // == // <="
+
+"stat.[stat] [sign] [amount]"
+
+"skills.[skill/subskill].[skillName] [sign] [lvl]"
+
+"ability.[active/passive].[id]"
+
+"inv.coins [sign] [minCoinAmount]"

@@ -1,0 +1,6 @@
+{
+  "itemType": "mana_generation_potion_1",
+  "displayName": "Mana Regeneration Potion I",
+  "description": "A potion which increases \nMANA REGENERATION by 20% \nfor 10 seconds.",
+  "useType": "consumable"
+}

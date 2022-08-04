@@ -1,0 +1,6 @@
+- major changes:
+	added active & passive abilities.
+	
+
+- minor changes:
+	added class types.

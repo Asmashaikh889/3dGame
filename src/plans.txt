@@ -1,0 +1,64 @@
+attribute:
+fire,water,earth,wind,ice,lightning - immunity by corresponding entities, ie: stray immune to ice, etc.
+plant,holy,shadow - heals corresponding based entities.
+insanity - effects both player and enemy.
+magic - damage scales with user mana, and downscales with enemy mana.
+
+stats:
+insanity - builds up with each hit of insanity attribute. distorts reality around player, high levels of insanity can be used for secret areas and by certain items.
+mana - more than 2.5* mana than max hp -> -25% damage & -20% health regeneration. spell damage scale
+endurance - defense
+stamina - used for scaling ultimate attacks, also acts as ordinary stamina.
+dexterity - dodge chance
+strength - strength
+brutality - chance to deal more than one hit at once. (hypixel skyblock ferocity)
+critical_damage - increase critical damage.
+critical_chance - chance to deal critical.
+luck - chance to re-roll loot tables.
+inventory_capacity - player inventory capacity.
+deteriorated_endurance - the endurance lost from the "deteriorate endurance" status.
+
+
+crafting:
+long time crafting recipe - a crafting recipe which takes 1-5 hours of irl time to craft.
+
+food:
+Red-Hot Chili Pepper
+God Speed Potato
+Radiant Corn
+Pearl Jam
+Glistening Carrot
+Sweet Water Melon
+Gigantic Pumpkin
+Super Tomato
+
+Murim:
+cultivation techniques - passive abilities, can only have ONE technique, effects inner qi gain multiplier.
+martial arts - active abilities, use external qi, gain inner qi (depends on martial art)
+
+plans:
+connect from other computers.
+quest prompt upon npc dialogue finish.
+multiple servers.
+api based user credentials saving.
+accessories (cape, necklace, 4 rings, 2 bracelets - in total 8 accessories).
+ - equipping items drag N drop based.
+ - drag and drop item location switching in inventory.
+ - add ability list to inventory.
+multiple attribute attacks.
+ - player load items into correct format.
+ - crafting recipe json.
+ - convert all non-inventory Item references to ItemRegistry
+ - events json.
+cooking system.
+plant growing and harvesting system.
+
+
+plans for play test (1.6):
+1. fix audio system and add sounds.
+2. add particle usage.
+3. add (at least) 5 sets of equipment.
+4. add a bunch of abilities and consumables.
+5. add NPCs and more monsters, more types of monsters.
+6. implement better models.
+7. implement basic entity a.i (area to walk, select point, move to point).

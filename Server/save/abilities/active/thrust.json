@@ -1,0 +1,10 @@
+{
+  "id": "thrust",
+  "displayName": "Thrust",
+  "start": "damage_box thrust 2 stat.health$-$25",
+  "duration": 0.1,
+  "end": "",
+  "cooldown": 15.0,
+  "description": "A simple forward thrust.",
+  "textureID": "gui_abilities_thrust"
+}

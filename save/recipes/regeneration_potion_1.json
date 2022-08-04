@@ -1,0 +1,20 @@
+{
+  "ingredients": [
+    {
+      "itemType": "shard_yellow_0",
+      "amount": 1
+    },
+    {
+      "itemType": "shard_blue_0",
+      "amount": 1
+    }
+  ],
+  "result": {
+    "itemType": "regeneration_potion_1",
+    "amount": 1
+  },
+  "recipeType": "crafting_recipe",
+  "craftingStation": "player",
+  "unlocked": "",
+  "uuid": "76aa0b87-cc5c-43a8-b519-59bffb264ea6"
+}

@@ -1,0 +1,21 @@
+{
+  "item": {
+    "itemStats": {
+      "luck": 0.1,
+      "strength": 10.0
+    },
+    "itemStatMuls": {
+      "health_regeneration": 1.1
+    },
+    "attribute": "none",
+    "displayName": "Iron Necklace",
+    "type": "iron_necklace",
+    "amount": 0,
+    "maxStackSize": 1,
+    "id": "58dcfb54-a672-4c13-954f-167184774afa"
+  },
+  "itemType": "iron_necklace",
+  "displayName": "Iron Necklace",
+  "description": "An iron necklace, very pretty, slightly magical.",
+  "useType": "equipment_necklace"
+}

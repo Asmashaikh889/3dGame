@@ -1,0 +1,10 @@
+
+- major changes:
+	added pause menu, controls in pause menu.
+	added log.
+	added health, mana, stamina bars.
+	added audio.
+	
+
+- minor changes:
+	added the ability to change colors of specific gui windows.

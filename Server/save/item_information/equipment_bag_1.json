@@ -1,0 +1,20 @@
+{
+  "item": {
+    "itemStats": {
+      "inventory_capacity": 4.0
+    },
+    "itemStatMuls": {
+      "health_max": 2.0
+    },
+    "attribute": "none",
+    "displayName": "Medium Bag",
+    "type": "equipment_bag_1",
+    "amount": 0,
+    "maxStackSize": 1,
+    "id": "f4b35ccd-e41d-4228-89cf-fd281ff2625e"
+  },
+  "itemType": "equipment_bag_1",
+  "displayName": "Medium Bag",
+  "description": "A medium bag.",
+  "useType": "equipment_back"
+}

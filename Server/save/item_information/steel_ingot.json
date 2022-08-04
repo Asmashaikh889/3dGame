@@ -1,0 +1,6 @@
+{
+  "itemType": "steel_ingot",
+  "displayName": "Steel Ingot",
+  "description": "A steel ingot.",
+  "useType": "crafting_ingredient"
+}

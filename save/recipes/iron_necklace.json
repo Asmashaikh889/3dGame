@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "itemType": "iron_ingot",
+      "amount": 4
+    },
+    {
+      "itemType": "string",
+      "amount": 8
+    }
+  ],
+  "result": {
+    "itemType": "iron_necklace",
+    "amount": 1
+  },
+  "recipeType": "crafting_recipe",
+  "RequirementsDescription": "",
+  "craftingStation": "anvil",
+  "unlocked": "",
+  "uuid": "460805c1-97db-4c98-b17f-9eb697597063"
+}

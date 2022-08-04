@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "itemType": "leather",
+      "amount": 4
+    },
+    {
+      "itemType": "string",
+      "amount": 1
+    }
+  ],
+  "result": {
+    "itemType": "boot_padding",
+    "amount": 1
+  },
+  "recipeType": "crafting_recipe",
+  "RequirementsDescription": "",
+  "craftingStation": "player",
+  "unlocked": "skills.skill.craftsmanship \u003e\u003d 3",
+  "uuid": "96c723ec-7594-40f6-8f5c-6f476fa1510a"
+}

@@ -1,0 +1,6 @@
+{
+  "itemType": "mana_boost_ability_stone",
+  "displayName": "Mana Boost Ability Stone",
+  "description": "Grants the user the \u0027Mana Boost\u0027 active ability.",
+  "useType": "consumable"
+}

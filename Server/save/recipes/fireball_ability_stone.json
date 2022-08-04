@@ -1,0 +1,16 @@
+{
+  "ingredients": [
+    {
+      "itemType": "shard_yellow_0",
+      "amount": 2
+    }
+  ],
+  "result": {
+    "itemType": "fireball_ability_stone",
+    "amount": 1
+  },
+  "recipeType": "crafting_recipe",
+  "craftingStation": "player",
+  "unlocked": "",
+  "uuid": "0c000139-14d9-4a31-b0c5-749302af06b6"
+}

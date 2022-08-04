@@ -1,0 +1,19 @@
+{
+  "item": {
+    "itemStats": {
+      "endurance": 10.0,
+      "health_max": 7.5
+    },
+    "itemStatMuls": {},
+    "attribute": "none",
+    "displayName": "Iron Helmet",
+    "type": "iron_helmet",
+    "amount": 0,
+    "maxStackSize": 1,
+    "id": "3030dd80-d33c-4b16-b343-bf397de9834f"
+  },
+  "itemType": "iron_helmet",
+  "displayName": "Iron Helmet",
+  "description": "An iron helmet,\nwould go perfectly with a necklace.",
+  "useType": "equipment_head"
+}

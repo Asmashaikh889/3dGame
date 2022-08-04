@@ -1,0 +1,5 @@
+{
+  "itemType": "regeneration_potion_2",
+  "eventType": "consumable",
+  "event": "status_effect.regeneration_2 10"
+}

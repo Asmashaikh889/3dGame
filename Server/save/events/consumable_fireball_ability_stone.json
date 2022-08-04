@@ -1,0 +1,5 @@
+{
+  "itemType": "fireball_ability_stone",
+  "eventType": "consumable",
+  "event": "ability.active.fireball"
+}

@@ -1,0 +1,6 @@
+{
+  "itemType": "string",
+  "displayName": "String",
+  "description": "A simple strand of string.",
+  "useType": "crafting_ingredient"
+}

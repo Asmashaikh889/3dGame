@@ -1,0 +1,12 @@
+{
+  "coins": 250,
+  "result": {
+    "itemType": "shard_blue_0",
+    "amount": 2
+  },
+  "recipeType": "vendor_recipe",
+  "RequirementsDescription": "",
+  "craftingStation": "player",
+  "unlocked": "inv.coins >= 250",
+  "uuid": "396aa349-b7b3-4c19-96f1-40de53bc2f79"
+}

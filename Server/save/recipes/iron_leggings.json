@@ -1,0 +1,17 @@
+{
+  "ingredients": [
+    {
+      "itemType": "iron_ingot",
+      "amount": 6
+    }
+  ],
+  "result": {
+    "itemType": "iron_leggings",
+    "amount": 1
+  },
+  "recipeType": "crafting_recipe",
+  "RequirementsDescription": "",
+  "craftingStation": "anvil",
+  "unlocked": "",
+  "uuid": "2231d195-ff7b-4765-9ccd-b920133fb773"
+}

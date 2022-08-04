@@ -1,0 +1,10 @@
+{
+  "id": "7_step_foot_technique",
+  "displayName": "7 Step Foot Technique",
+  "start": "stat.qi_max >= 1&&stat.qi >= 0.2f?incQi 0.1f&&stat.qi - 0.2f&&stat.speed + 25",
+  "duration": 20.0,
+  "end": "stat.speed - 25",
+  "cooldown": 10.0,
+  "description": "Requires (at least) 1 [Inner Qi].Costs 0.2 [External Qi] to use and increase [Speed] by 25. Increase of [Inner Qi] by 0.1 per use.",
+  "textureID": "gui_abilities_7_step_foot_technique"
+}

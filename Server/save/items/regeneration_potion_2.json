@@ -1,0 +1,8 @@
+{
+  "consumableEvent": "regeneration_potion_2",
+  "displayName": "Regeneration Potion II",
+  "type": "regeneration_potion_2",
+  "amount": 0,
+  "maxStackSize": 4,
+  "id": "a52a984e-9ebd-41d4-b500-a3a1bf4010c4"
+}

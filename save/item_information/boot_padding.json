@@ -1,0 +1,6 @@
+{
+  "itemType": "boot_padding",
+  "displayName": "Boot Padding",
+  "description": "The padding for a single boot.",
+  "useType": "crafting_ingredient"
+}

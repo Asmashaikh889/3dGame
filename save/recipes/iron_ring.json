@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "itemType": "iron_ingot",
+      "amount": 2
+    },
+    {
+      "itemType": "shard_blue_0",
+      "amount": 2
+    }
+  ],
+  "result": {
+    "itemType": "iron_ring",
+    "amount": 1
+  },
+  "recipeType": "crafting_recipe",
+  "RequirementsDescription": "",
+  "craftingStation": "anvil",
+  "unlocked": "",
+  "uuid": "2ffe0197-f7b0-4695-bb2d-0fcc4f5f8867"
+}

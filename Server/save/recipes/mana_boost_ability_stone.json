@@ -1,0 +1,16 @@
+{
+  "ingredients": [
+    {
+      "itemType": "shard_blue_0",
+      "amount": 2
+    }
+  ],
+  "result": {
+    "itemType": "mana_boost_ability_stone",
+    "amount": 1
+  },
+  "recipeType": "crafting_recipe",
+  "craftingStation": "player",
+  "unlocked": "",
+  "uuid": "329ea5ad-a115-4f2b-bac4-df88c7e81240"
+}

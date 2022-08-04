@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "itemType": "iron_ingot",
+      "amount": 4
+    },
+    {
+      "itemType": "boot_padding",
+      "amount": 2
+    }
+  ],
+  "result": {
+    "itemType": "iron_boots",
+    "amount": 1
+  },
+  "recipeType": "crafting_recipe",
+  "RequirementsDescription": "",
+  "craftingStation": "anvil",
+  "unlocked": "",
+  "uuid": "fc83b6a1-be8e-4abd-adf4-89143c8c4ef1"
+}

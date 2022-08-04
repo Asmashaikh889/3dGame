@@ -1,0 +1,16 @@
+{
+  "damage": 10.0,
+  "weaponTypes": [
+    "sword"
+  ],
+  "itemStats": {
+    "strength": 5.0
+  },
+  "itemStatMuls": {},
+  "attribute": "fire",
+  "displayName": "Test Sword",
+  "type": "equipment_sword_test",
+  "amount": 0,
+  "maxStackSize": 1,
+  "id": "4ca70be0-3c15-4cc1-909d-fa5b846b559c"
+}

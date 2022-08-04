@@ -1,0 +1,8 @@
+{
+  "consumableEvent": "fireball_ability_stone",
+  "displayName": "Fireball Ability Stone",
+  "type": "fireball_ability_stone",
+  "amount": 0,
+  "maxStackSize": 2,
+  "id": "b4e42cc9-e1f4-4fb2-9bb3-2b4c0876ebc5"
+}

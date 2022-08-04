@@ -1,0 +1,8 @@
+{
+  "consumableEvent": "mana_generation_potion_1",
+  "displayName": "Mana Regeneration Potion I",
+  "type": "mana_generation_potion_1",
+  "amount": 0,
+  "maxStackSize": 4,
+  "id": "49eb2d30-f3ed-496c-b8db-79ba750219b5"
+}

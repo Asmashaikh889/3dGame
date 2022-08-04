@@ -1,0 +1,20 @@
+{
+  "ingredients": [
+    {
+      "itemType": "shard_yellow_0",
+      "amount": 1
+    },
+    {
+      "itemType": "shard_blue_0",
+      "amount": 1
+    }
+  ],
+  "result": {
+    "itemType": "equipment_bag_0",
+    "amount": 1
+  },
+  "recipeType": "crafting_recipe",
+  "craftingStation": "player",
+  "unlocked": "",
+  "uuid": "5c660961-e5e6-4969-9ae3-305a0594c8e5"
+}

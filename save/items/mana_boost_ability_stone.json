@@ -1,0 +1,8 @@
+{
+  "consumableEvent": "mana_boost_ability_stone",
+  "displayName": "Mana Boost Ability Stone",
+  "type": "mana_boost_ability_stone",
+  "amount": 0,
+  "maxStackSize": 2,
+  "id": "b8753e78-cc1e-4bd4-be8b-666835e6dc1a"
+}

@@ -1,0 +1,5 @@
+{
+  "itemType": "copper_heart_ability_stone",
+  "eventType": "consumable",
+  "event": "ability.passive.copper_heart"
+}

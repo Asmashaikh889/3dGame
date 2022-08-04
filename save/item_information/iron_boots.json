@@ -1,0 +1,20 @@
+{
+  "item": {
+    "itemStats": {
+      "speed": 5.0,
+      "endurance": 15.0,
+      "health_max": 7.5
+    },
+    "itemStatMuls": {},
+    "attribute": "none",
+    "displayName": "Iron Boots",
+    "type": "iron_boots",
+    "amount": 0,
+    "maxStackSize": 1,
+    "id": "8dbf3772-b89c-42ce-8855-3437e5680378"
+  },
+  "itemType": "iron_boots",
+  "displayName": "Iron Boots",
+  "description": "A pair of iron boots.",
+  "useType": "equipment_feet"
+}

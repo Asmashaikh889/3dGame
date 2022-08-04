@@ -1,0 +1,7 @@
+{
+  "id": "9_sword_cultivation_technique",
+  "displayName": "9 Sword Cultivation Technique",
+  "start": "stat.qi_cultivation_rate + 0.5f&&stat.qi_max + 1",
+  "end": "stat.qi_cultivation_rate - 0.5f&&stat.qi_max - 1",
+  "description": "Allow the user to cultivate [Qi]."
+}

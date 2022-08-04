@@ -1,0 +1,329 @@
+{
+  "uuid": "fe707118-757a-4fae-8e14-8b951758278d",
+  "position": {
+    "x": 3.9438128,
+    "y": 1.0375,
+    "z": 2.5696888
+  },
+  "statHandler": {
+    "uuid": "fe707118-757a-4fae-8e14-8b951758278d",
+    "stats": {
+      "mana": 260.0,
+      "strength": 5.5,
+      "inventory_capacity": 16.0,
+      "stamina": 10.0,
+      "critical_damage": 0.0,
+      "qi_recovery": 0.0,
+      "qi_max": 1.05,
+      "health_max": 200.0,
+      "dexterity": 2.5,
+      "stealth": 0.0,
+      "insanity": 0.0,
+      "luck": 0.0,
+      "stamina_max": 10.0,
+      "mana_max": 10.0,
+      "health": 200.0,
+      "qi_cultivation_rate": 0.5,
+      "endurance": 0.0,
+      "speed": 0.0,
+      "health_regeneration": 100.0,
+      "mana_recovery": 100.0,
+      "deteriorated_endurance": 0.0,
+      "stamina_recovery": 100.0,
+      "qi": 0.8080742,
+      "critical_chance": 4.0,
+      "brutality": 0.0
+    },
+    "statMuls": {
+      "mana": 1.0,
+      "strength": 1.0,
+      "inventory_capacity": 1.0,
+      "stamina": 1.0,
+      "critical_damage": 1.0,
+      "qi_recovery": 1.0,
+      "qi_max": 1.0,
+      "health_max": 2.0,
+      "dexterity": 1.0,
+      "stealth": 1.0,
+      "insanity": 1.0,
+      "luck": 1.0,
+      "stamina_max": 1.0,
+      "mana_max": 1.0,
+      "health": 1.0,
+      "qi_cultivation_rate": 1.0,
+      "endurance": 1.0,
+      "speed": 1.0,
+      "health_regeneration": 1.0,
+      "mana_recovery": 1.0,
+      "deteriorated_endurance": 1.0,
+      "stamina_recovery": 1.0,
+      "qi": 1.0,
+      "critical_chance": 1.0,
+      "brutality": 1.0
+    },
+    "attributeResistances": {
+      "plant": 0.0,
+      "lightning": 0.0,
+      "earth": 0.0,
+      "wind": 0.0,
+      "ice": 0.0,
+      "insanity": 0.0,
+      "shadow": 0.0,
+      "none": 0.0,
+      "fire": 0.0,
+      "water": 0.0,
+      "magic": 0.0,
+      "holy": 0.0
+    },
+    "statusEffects": {
+      "anvil": {
+        "effectType": "anvil",
+        "duration": 135.41826
+      }
+    }
+  },
+  "skillHandler": {
+    "skills": {
+      "fishing": {
+        "skillType": "fishing",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "magic": {
+        "skillType": "magic",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "farming": {
+        "skillType": "farming",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "mining": {
+        "skillType": "mining",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "combat": {
+        "skillType": "combat",
+        "level": 2,
+        "currentExp": 148.41438,
+        "requiredExp": 200.0
+      },
+      "craftsmanship": {
+        "skillType": "craftsmanship",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "foraging": {
+        "skillType": "foraging",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      }
+    },
+    "subSkills": {
+      "magic_spell_casting": {
+        "skillType": "magic_spell_casting",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "magic_holy_magic": {
+        "skillType": "magic_holy_magic",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "combat_scythe": {
+        "skillType": "combat_scythe",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "magic_mana_manipulation": {
+        "skillType": "magic_mana_manipulation",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "combat_axe": {
+        "skillType": "combat_axe",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "magic_dark_magic": {
+        "skillType": "magic_dark_magic",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "combat_ranged": {
+        "skillType": "combat_ranged",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "combat_spear": {
+        "skillType": "combat_spear",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "craftsmanship_ore_processing": {
+        "skillType": "craftsmanship_ore_processing",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "combat_sword": {
+        "skillType": "combat_sword",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "magic_alchemy": {
+        "skillType": "magic_alchemy",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "combat_aura": {
+        "skillType": "combat_aura",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "craftsmanship_gem_refining": {
+        "skillType": "craftsmanship_gem_refining",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      }
+    }
+  },
+  "questHandler": {
+    "converseQuests": [],
+    "slayQuests": [],
+    "fetchQuests": [
+      {
+        "questID": "blacksmith_john_1",
+        "rawDescription": "Get john 5 Yellow Crystals.",
+        "items": [
+          {
+            "displayName": "Common Yellow Shard",
+            "type": "shard_yellow_0",
+            "amount": 5,
+            "maxStackSize": 16,
+            "id": "86955f45-f67d-4701-96db-4d94430835c4"
+          }
+        ],
+        "followUpQuest": "none",
+        "lastPercent": 0.4
+      }
+    ]
+  },
+  "abilityHandler": {
+    "invokedActiveAbilities": {},
+    "activeAbilityCooldowns": {},
+    "activeAbilities": [
+      "7_step_foot_technique",
+      "9_step_foot_technique"
+    ],
+    "passiveAbilities": [
+      "9_sword_cultivation_technique"
+    ],
+    "maxUsedAbilities": 5,
+    "usedAbilities": 0
+  },
+  "inventory": {
+    "equipment": {
+      "back": {
+        "itemStats": {
+          "inventory_capacity": 8.0
+        },
+        "itemStatMuls": {
+          "health_max": 2.0
+        },
+        "attribute": "none",
+        "displayName": "Large Bag",
+        "type": "equipment_bag_2",
+        "amount": 1,
+        "maxStackSize": 1,
+        "id": "03b9dd5c-25aa-4e17-9534-47721497c65c"
+      }
+    },
+    "itemArr": [
+      {
+        "displayName": "Common Yellow Shard",
+        "type": "shard_yellow_0",
+        "amount": 2,
+        "maxStackSize": 16,
+        "id": "eb14ddf9-cb1a-4366-801a-4d5fc91a8518"
+      },
+      {
+        "displayName": "Iron Ingot",
+        "type": "iron_ingot",
+        "amount": 8,
+        "maxStackSize": 24,
+        "id": "636d89d0-f34b-423d-8d43-eb44373ceca4"
+      },
+      {
+        "displayName": "Common Blue Shard",
+        "type": "shard_blue_0",
+        "amount": 1,
+        "maxStackSize": 16,
+        "id": "2f7a246f-c253-4706-87ed-d88043035ae3"
+      },
+      {
+        "itemStats": {
+          "inventory_capacity": 4.0
+        },
+        "itemStatMuls": {
+          "health_max": 2.0
+        },
+        "attribute": "none",
+        "displayName": "Medium Bag",
+        "type": "equipment_bag_1",
+        "amount": 1,
+        "maxStackSize": 1,
+        "id": "6c1a816a-8558-42ef-9e5d-341a986ec188"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "coins": 111,
+    "availableCraftingStations": [
+      "player"
+    ]
+  },
+  "entityFlags": {
+    "cooldowns": {
+      "Ability1Cooldown": 0.0,
+      "Ability5Cooldown": 0.0,
+      "Ability2Cooldown": 0.0,
+      "Ability4Cooldown": 0.0,
+      "Ability3Cooldown": 0.0
+    },
+    "flags": {
+      "CanJump": 0,
+      "manaPoisoningState": 0
+    }
+  }
+}

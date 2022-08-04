@@ -1,0 +1,17 @@
+{
+  "ingredients": [
+    {
+      "itemType": "iron_ingot",
+      "amount": 9
+    }
+  ],
+  "result": {
+    "itemType": "iron_chestplate",
+    "amount": 1
+  },
+  "recipeType": "crafting_recipe",
+  "RequirementsDescription": "",
+  "craftingStation": "anvil",
+  "unlocked": "",
+  "uuid": "a0c938bb-c8c1-473e-8daa-59f00b178be7"
+}

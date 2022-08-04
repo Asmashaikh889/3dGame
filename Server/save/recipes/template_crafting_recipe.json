@@ -1,0 +1,16 @@
+{
+  "ingredients": [
+    {
+      "itemType": "id",
+      "amount": 1
+    }
+  ],
+  "result": {
+    "itemType": "id",
+    "amount": 1
+  },
+  "recipeType": "crafting_recipe",
+  "craftingStation": "station",
+  "unlocked": "",
+  "uuid": ""
+}

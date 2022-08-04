@@ -1,0 +1,16 @@
+{
+  "itemStats": {
+    "stat1": 1,
+    "stat2": 1
+  },
+  "itemStatMuls": {
+    "stat1": 1,
+    "stat2": 1
+  },
+  "attribute": "none",
+  "displayName": "Name",
+  "type": "id",
+  "amount": 0,
+  "maxStackSize": 1,
+  "id": ""
+}

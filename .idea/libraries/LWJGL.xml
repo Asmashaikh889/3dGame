@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="LWJGL">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl-glfw/lwjgl-glfw.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl-opengl/lwjgl-opengl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl-opengl/lwjgl-opengl-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl-glfw/lwjgl-glfw-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl/lwjgl-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl-stb/lwjgl-stb-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl-stb/lwjgl-stb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/joml-1.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/gson-2.8.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/imgui/imgui-app-1.86.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/imgui/imgui-binding-1.86.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/imgui/imgui-lwjgl3-1.86.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl-openal/lwjgl-openal-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl-openal/lwjgl-openal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/kryonet-2.21/jars/production/onejar/kryonet-2.21-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/jdbc/ojdbc11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl-opengl/lwjgl-opengl-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl-glfw/lwjgl-glfw-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl/lwjgl-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl-stb/lwjgl-stb-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl-openal/lwjgl-openal-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/jdbc/JDBC-javadoc-21c.jar!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../Libraries/imgui" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl/lwjgl-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl-glfw/lwjgl-glfw-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl-opengl/lwjgl-opengl-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl-stb/lwjgl-stb-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/imgui/imgui-app-1.86.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/imgui/imgui-binding-1.86.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/imgui/imgui-lwjgl3-1.86.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libraries/LWJGL/lwjgl-openal/lwjgl-openal-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

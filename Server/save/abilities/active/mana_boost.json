@@ -1,0 +1,10 @@
+{
+  "id": "mana_boost",
+  "displayName": "Mana Boost",
+  "start": "stat.mana_recovery * 2",
+  "duration": 10.0,
+  "end": "stat.mana_recovery / 2",
+  "cooldown": 5.0,
+  "description": "Double mana recovery rate.",
+  "textureID": "gui_abilities_mana_boost"
+}

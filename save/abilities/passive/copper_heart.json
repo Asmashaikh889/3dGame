@@ -1,0 +1,7 @@
+{
+  "id": "copper_heart",
+  "displayName": "Copper Heart",
+  "start": "stat.endurance + 20",
+  "end": "stat.endurance - 20",
+  "description": "Increase Endurance by 20."
+}

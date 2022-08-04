@@ -1,0 +1,20 @@
+{
+  "ingredients": [
+    {
+      "itemType": "iron_ingot",
+      "amount": 2
+    },
+    {
+      "itemType": "shard_red_0",
+      "amount": 3
+    }
+  ],
+  "result": {
+    "itemType": "steel_ingot",
+    "amount": 1
+  },
+  "recipeType": "crafting_recipe",
+  "craftingStation": "player",
+  "unlocked": "",
+  "uuid": "a68fb164-603a-47f4-b6f0-2320fcb18cf8"
+}

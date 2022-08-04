@@ -1,0 +1,6 @@
+{
+  "itemType": "shard_green_0",
+  "displayName": "Common Nature Shard",
+  "description": "A common nature shard,\n  can be used to apply the |Nature| attribute to a weapon.",
+  "useType": "crafting_ingredient"
+}

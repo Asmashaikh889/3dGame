@@ -1,0 +1,395 @@
+{
+  "uuid": "44eda9b0-db42-443e-b3df-6d20776e448c",
+  "position": {
+    "x": 2.1145017,
+    "y": 1.0375,
+    "z": 2.8029768
+  },
+  "statHandler": {
+    "uuid": "44eda9b0-db42-443e-b3df-6d20776e448c",
+    "stats": {
+      "health": 265.0,
+      "dexterity": 2.5,
+      "critical_damage": 0.0,
+      "mana_max": 20.0,
+      "stamina": 10.0,
+      "stealth": 0.0,
+      "inventory_capacity": 16.0,
+      "mana": 260.0,
+      "luck": 0.1,
+      "health_regeneration": 100.0,
+      "speed": 0.5,
+      "mana_recovery": 100.0,
+      "brutality": 0.0,
+      "deteriorated_endurance": 0.0,
+      "health_max": 265.0,
+      "critical_chance": 10.0,
+      "stamina_max": 10.0,
+      "stamina_recovery": 100.0,
+      "insanity": 0.0,
+      "strength": 11.25,
+      "endurance": 50.0,
+      "qi_max": 3.4499996,
+      "qi": 3.4499996,
+      "qi_recovery": 0.0,
+      "qi_cultivation_rate": 0.5
+    },
+    "statMuls": {
+      "health": 1.0,
+      "dexterity": 1.0,
+      "critical_damage": 1.0,
+      "mana_max": 1.0,
+      "stamina": 1.0,
+      "stealth": 1.0,
+      "inventory_capacity": 1.0,
+      "mana": 1.0,
+      "luck": 1.0,
+      "health_regeneration": 1.0,
+      "speed": 1.0,
+      "mana_recovery": 1.0,
+      "brutality": 1.0,
+      "deteriorated_endurance": 1.0,
+      "health_max": 2.0,
+      "critical_chance": 1.0,
+      "stamina_max": 1.0,
+      "stamina_recovery": 1.0,
+      "insanity": 1.0,
+      "strength": 1.0,
+      "endurance": 1.0,
+      "qi_max": 1.0,
+      "qi": 1.0,
+      "qi_recovery": 1.0,
+      "qi_cultivation_rate": 1.0
+    },
+    "attributeResistances": {
+      "earth": 0.0,
+      "insanity": 0.0,
+      "shadow": 0.0,
+      "lightning": 0.0,
+      "fire": 0.0,
+      "none": 0.0,
+      "holy": 0.0,
+      "plant": 0.0,
+      "ice": 0.0,
+      "wind": 0.0,
+      "water": 0.0,
+      "magic": 0.0
+    },
+    "statusEffects": {
+      "anvil": {
+        "effectType": "anvil",
+        "duration": 181.24005
+      }
+    }
+  },
+  "skillHandler": {
+    "skills": {
+      "farming": {
+        "skillType": "farming",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "combat": {
+        "skillType": "combat",
+        "level": 5,
+        "currentExp": 478.66025,
+        "requiredExp": 750.0
+      },
+      "mining": {
+        "skillType": "mining",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "magic": {
+        "skillType": "magic",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "fishing": {
+        "skillType": "fishing",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "craftsmanship": {
+        "skillType": "craftsmanship",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "foraging": {
+        "skillType": "foraging",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      }
+    },
+    "subSkills": {
+      "combat_aura": {
+        "skillType": "combat_aura",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "craftsmanship_ore_processing": {
+        "skillType": "craftsmanship_ore_processing",
+        "level": 1,
+        "currentExp": 50.0,
+        "requiredExp": 125.0
+      },
+      "combat_axe": {
+        "skillType": "combat_axe",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "combat_ranged": {
+        "skillType": "combat_ranged",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "magic_dark_magic": {
+        "skillType": "magic_dark_magic",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "magic_holy_magic": {
+        "skillType": "magic_holy_magic",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "magic_spell_casting": {
+        "skillType": "magic_spell_casting",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "craftsmanship_gem_refining": {
+        "skillType": "craftsmanship_gem_refining",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "magic_alchemy": {
+        "skillType": "magic_alchemy",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "combat_scythe": {
+        "skillType": "combat_scythe",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "magic_mana_manipulation": {
+        "skillType": "magic_mana_manipulation",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "combat_spear": {
+        "skillType": "combat_spear",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "combat_sword": {
+        "skillType": "combat_sword",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      }
+    }
+  },
+  "questHandler": {
+    "converseQuests": [],
+    "slayQuests": [],
+    "fetchQuests": []
+  },
+  "abilityHandler": {
+    "invokedActiveAbilities": {},
+    "activeAbilityCooldowns": {},
+    "activeAbilities": [
+      "thrust"
+    ],
+    "passiveAbilities": [],
+    "maxUsedAbilities": 5,
+    "usedAbilities": 0
+  },
+  "inventory": {
+    "equipment": {
+      "chest": {
+        "itemStats": {
+          "endurance": 15.0,
+          "health_max": 20.0
+        },
+        "itemStatMuls": {},
+        "attribute": "none",
+        "displayName": "Iron Chestplate",
+        "type": "iron_chestplate",
+        "amount": 1,
+        "maxStackSize": 1,
+        "id": "88b7faec-19f4-4947-9d0c-4c1a50159ebf"
+      },
+      "legs": {
+        "itemStats": {
+          "endurance": 15.0,
+          "health_max": 12.5
+        },
+        "itemStatMuls": {},
+        "attribute": "none",
+        "displayName": "Iron Leggings",
+        "type": "iron_leggings",
+        "amount": 1,
+        "maxStackSize": 1,
+        "id": "5817476d-45fb-4c45-b413-d1838f9d83dc"
+      },
+      "main_hand": {
+        "itemStats": {
+          "strength": 5.0
+        },
+        "itemStatMuls": {},
+        "attribute": "fire",
+        "displayName": "Test Sword",
+        "type": "equipment_sword_test",
+        "amount": 1,
+        "maxStackSize": 1,
+        "id": "cf43b064-8b3f-4aa5-bdc1-8153c231c951"
+      },
+      "back": {
+        "itemStats": {
+          "inventory_capacity": 8.0
+        },
+        "itemStatMuls": {
+          "health_max": 2.0
+        },
+        "attribute": "none",
+        "displayName": "Large Bag",
+        "type": "equipment_bag_2",
+        "amount": 1,
+        "maxStackSize": 1,
+        "id": "1559a7ff-9346-4271-aca0-138a5ed54d36"
+      },
+      "ring_1": {
+        "itemStats": {
+          "speed": 0.25,
+          "luck": 0.05,
+          "mana_max": 5.0
+        },
+        "itemStatMuls": {},
+        "attribute": "none",
+        "displayName": "Iron Ring",
+        "type": "iron_ring",
+        "amount": 1,
+        "maxStackSize": 1,
+        "id": "750f44f9-8b47-436b-a6ab-13982006ef6a"
+      },
+      "ring_4": {
+        "itemStats": {
+          "speed": 0.25,
+          "luck": 0.05,
+          "mana_max": 5.0
+        },
+        "itemStatMuls": {},
+        "attribute": "none",
+        "displayName": "Iron Ring",
+        "type": "iron_ring",
+        "amount": 1,
+        "maxStackSize": 1,
+        "id": "1f9a86e3-008e-4cd5-bb68-6946d68a369b"
+      }
+    },
+    "itemArr": [
+      {
+        "displayName": "Common Yellow Shard",
+        "type": "shard_yellow_0",
+        "amount": 15,
+        "maxStackSize": 16,
+        "id": "9719b464-37f9-49d0-98fa-fc06a1d4b467"
+      },
+      {
+        "displayName": "Common Blue Shard",
+        "type": "shard_blue_0",
+        "amount": 1,
+        "maxStackSize": 16,
+        "id": "e2da8bf7-dc76-4e06-a0cb-3e9b75019abc"
+      },
+      {
+        "displayName": "Common Yellow Shard",
+        "type": "shard_yellow_0",
+        "amount": 4,
+        "maxStackSize": 16,
+        "id": "969cdc7c-cbf1-4479-af56-aa0afe232204"
+      },
+      {
+        "itemStats": {
+          "inventory_capacity": 4.0
+        },
+        "itemStatMuls": {
+          "health_max": 2.0
+        },
+        "attribute": "none",
+        "displayName": "Medium Bag",
+        "type": "equipment_bag_1",
+        "amount": 1,
+        "maxStackSize": 1,
+        "id": "753a33be-13cd-4163-b7d8-cdcf6977e442"
+      },
+      {
+        "displayName": "Iron Ingot",
+        "type": "iron_ingot",
+        "amount": 4,
+        "maxStackSize": 24,
+        "id": "e2a33781-165f-47e5-af84-00c8a41bce4a"
+      },
+      {
+        "itemStats": {
+          "inventory_capacity": 2.0,
+          "mana_max": 250.0
+        },
+        "itemStatMuls": {},
+        "attribute": "none",
+        "displayName": "Small Bag",
+        "type": "equipment_bag_0",
+        "amount": 1,
+        "maxStackSize": 1,
+        "id": "7ef45472-c2ac-44f1-8ed8-46195b84240f"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "coins": 830,
+    "availableCraftingStations": [
+      "player",
+      "anvil"
+    ]
+  },
+  "entityFlags": {
+    "cooldowns": {
+      "Ability1Cooldown": 0.0,
+      "Ability5Cooldown": 0.0,
+      "Ability2Cooldown": 0.0,
+      "Ability4Cooldown": 0.0,
+      "Ability3Cooldown": 0.0
+    },
+    "flags": {
+      "CanJump": 0,
+      "manaPoisoningState": 0
+    }
+  }
+}

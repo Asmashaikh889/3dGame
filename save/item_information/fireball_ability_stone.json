@@ -1,0 +1,6 @@
+{
+  "itemType": "fireball_ability_stone",
+  "displayName": "Fireball Ability Stone",
+  "description": "Grants the user the \u0027Fireball\u0027 active ability.",
+  "useType": "consumable"
+}

@@ -1,0 +1,270 @@
+{
+  "uuid": "fd31265f-7b47-4934-b33a-60c408007c21",
+  "position": {
+    "x": 2.5809588,
+    "y": 1.0375,
+    "z": 7.3462715
+  },
+  "statHandler": {
+    "uuid": "fd31265f-7b47-4934-b33a-60c408007c21",
+    "stats": {
+      "qi_max": 0.0,
+      "qi": 0.0,
+      "mana_max": 10.0,
+      "stamina_recovery": 100.0,
+      "endurance": 0.0,
+      "deteriorated_endurance": 0.0,
+      "health": 100.0,
+      "health_regeneration": 100.0,
+      "mana": 10.0,
+      "dexterity": 2.5,
+      "luck": 0.0,
+      "qi_cultivation_rate": 0.0,
+      "stamina": 10.0,
+      "inventory_capacity": 8.0,
+      "qi_recovery": 0.0,
+      "strength": 11.0,
+      "stealth": 0.0,
+      "critical_chance": 4.0,
+      "stamina_max": 10.0,
+      "critical_damage": 0.0,
+      "insanity": 0.0,
+      "brutality": 0.0,
+      "speed": 0.0,
+      "mana_recovery": 100.0,
+      "health_max": 100.0
+    },
+    "statMuls": {
+      "qi_max": 1.0,
+      "qi": 1.0,
+      "mana_max": 1.0,
+      "stamina_recovery": 1.0,
+      "endurance": 1.0,
+      "deteriorated_endurance": 1.0,
+      "health": 1.0,
+      "health_regeneration": 1.0,
+      "mana": 1.0,
+      "dexterity": 1.0,
+      "luck": 1.0,
+      "qi_cultivation_rate": 1.0,
+      "stamina": 1.0,
+      "inventory_capacity": 1.0,
+      "qi_recovery": 1.0,
+      "strength": 2.0,
+      "stealth": 1.0,
+      "critical_chance": 1.0,
+      "stamina_max": 1.0,
+      "critical_damage": 1.0,
+      "insanity": 1.0,
+      "brutality": 1.0,
+      "speed": 1.0,
+      "mana_recovery": 1.0,
+      "health_max": 1.0
+    },
+    "attributeResistances": {
+      "shadow": 0.0,
+      "ice": 0.0,
+      "wind": 0.0,
+      "water": 0.0,
+      "earth": 0.0,
+      "holy": 0.0,
+      "lightning": 0.0,
+      "fire": 0.0,
+      "magic": 0.0,
+      "insanity": 0.0,
+      "none": 0.0,
+      "plant": 0.0
+    },
+    "statusEffects": {
+      "anvil": {
+        "effectType": "anvil",
+        "duration": 251.11989
+      }
+    }
+  },
+  "skillHandler": {
+    "skills": {
+      "foraging": {
+        "skillType": "foraging",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "craftsmanship": {
+        "skillType": "craftsmanship",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "combat": {
+        "skillType": "combat",
+        "level": 2,
+        "currentExp": 14.867584,
+        "requiredExp": 200.0
+      },
+      "fishing": {
+        "skillType": "fishing",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "farming": {
+        "skillType": "farming",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "magic": {
+        "skillType": "magic",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "mining": {
+        "skillType": "mining",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      }
+    },
+    "subSkills": {
+      "magic_holy_magic": {
+        "skillType": "magic_holy_magic",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "combat_sword": {
+        "skillType": "combat_sword",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "magic_mana_manipulation": {
+        "skillType": "magic_mana_manipulation",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "magic_alchemy": {
+        "skillType": "magic_alchemy",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "combat_aura": {
+        "skillType": "combat_aura",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "craftsmanship_gem_refining": {
+        "skillType": "craftsmanship_gem_refining",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "combat_ranged": {
+        "skillType": "combat_ranged",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "combat_scythe": {
+        "skillType": "combat_scythe",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "magic_spell_casting": {
+        "skillType": "magic_spell_casting",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "combat_axe": {
+        "skillType": "combat_axe",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "combat_spear": {
+        "skillType": "combat_spear",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      },
+      "craftsmanship_ore_processing": {
+        "skillType": "craftsmanship_ore_processing",
+        "level": 1,
+        "currentExp": 50.0,
+        "requiredExp": 125.0
+      },
+      "magic_dark_magic": {
+        "skillType": "magic_dark_magic",
+        "level": 0,
+        "currentExp": 0.0,
+        "requiredExp": 50.0
+      }
+    }
+  },
+  "questHandler": {
+    "converseQuests": [],
+    "slayQuests": [],
+    "fetchQuests": []
+  },
+  "abilityHandler": {
+    "invokedActiveAbilities": {
+      "fireball": 1.3960661
+    },
+    "activeAbilityCooldowns": {},
+    "activeAbilities": [
+      "fireball"
+    ],
+    "passiveAbilities": [],
+    "maxUsedAbilities": 5,
+    "usedAbilities": 1
+  },
+  "inventory": {
+    "equipment": {},
+    "itemArr": [
+      {
+        "displayName": "Iron Ingot",
+        "type": "iron_ingot",
+        "amount": 1,
+        "maxStackSize": 24,
+        "id": "80551076-a6e6-449a-afe2-05f85d4f40dd"
+      },
+      {
+        "displayName": "Common Yellow Shard",
+        "type": "shard_yellow_0",
+        "amount": 2,
+        "maxStackSize": 16,
+        "id": "e04eb364-e092-493d-83fd-699084d1f20f"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "coins": 495,
+    "availableCraftingStations": [
+      "player"
+    ]
+  },
+  "entityFlags": {
+    "cooldowns": {
+      "Ability1Cooldown": 0.0,
+      "Ability5Cooldown": 0.0,
+      "Ability2Cooldown": 0.0,
+      "Ability4Cooldown": 0.0,
+      "Ability3Cooldown": 0.0
+    },
+    "flags": {
+      "CanJump": 0,
+      "manaPoisoningState": 0
+    }
+  }
+}

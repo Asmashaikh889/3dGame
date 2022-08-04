@@ -1,0 +1,18 @@
+{
+  "item": {
+    "itemStats": {
+      "strength": 5.0
+    },
+    "itemStatMuls": {},
+    "attribute": "fire",
+    "displayName": "Test Sword",
+    "type": "equipment_sword_test",
+    "amount": 0,
+    "maxStackSize": 1,
+    "id": "971b742f-dcf6-4fa0-ad93-1c0d0f58c525"
+  },
+  "itemType": "equipment_sword_test",
+  "displayName": "Test Sword",
+  "description": "A sword.",
+  "useType": "equipment_main_hand"
+}
